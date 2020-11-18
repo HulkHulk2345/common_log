@@ -1,0 +1,17 @@
+{
+    "name": "zpc/common_log",
+    "description": "common_log",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zpc",
+            "email": "zpc610428@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4": {
+			"CommonLog\\": "src/"
+		}
+    }
+}
